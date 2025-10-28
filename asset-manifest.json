@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/book-finder-react.js/static/css/main.4dcf1af4.css",
+    "main.js": "/book-finder-react.js/static/js/main.790bc8f6.js",
+    "index.html": "/book-finder-react.js/index.html",
+    "main.4dcf1af4.css.map": "/book-finder-react.js/static/css/main.4dcf1af4.css.map",
+    "main.790bc8f6.js.map": "/book-finder-react.js/static/js/main.790bc8f6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4dcf1af4.css",
+    "static/js/main.790bc8f6.js"
+  ]
+}
